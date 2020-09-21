@@ -1,0 +1,11 @@
+click==7.1.2
+joblib==0.16.0
+lxml==4.5.2
+nltk==3.5
+Pillow==7.2.0
+PyAudio @ file:///C:/Users/rmaci/Downloads/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+python-docx==0.8.10
+regex==2020.7.14
+SpeechRecognition==3.8.1
+textblob==0.15.3
+tqdm==4.49.0
